@@ -1,257 +1,257 @@
 {
-    "AK": {
+    "Alabama": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.state.al.us/"
     },
-    "AL": {
+    "Alaska": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.alaska.gov/"
     },
-    "AR": {
+    "Arizona": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.azdot.gov/"
     },
-    "AZ": {
+    "Arkansas": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.ahtd.state.ar.us/"
     },
-    "CA": {
+    "California": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.ca.gov/"
     },
-    "CO": {
+    "Colorado": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "https://www.codot.gov/"
     },
-    "CT": {
+    "Connecticut": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.ct.gov/dot/"
     },
-    "DC": {
+    "Delaware": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.deldot.gov/"
     },
-    "DE": {
+    "Florida": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.state.fl.us/"
     },
-    "FL": {
+    "Georgia": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.ga.gov/"
     },
-    "GA": {
+    "Hawaii": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://hidot.hawaii.gov/"
     },
-    "HI": {
+    "Idaho": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.itd.idaho.gov/"
     },
-    "IA": {
+    "Illinois": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.idot.illinois.gov/"
     },
-    "ID": {
+    "Indiana": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.in.gov/indot/"
     },
-    "IL": {
+    "Iowa": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.iowadot.gov/"
     },
-    "IN": {
+    "Kansas": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.ksdot.org/"
     },
-    "KS": {
+    "Kentucky": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://transportation.ky.gov/"
     },
-    "KY": {
+    "Louisiana": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://wwwsp.dotd.la.gov/"
     },
-    "LA": {
+    "Maine": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.state.me.us/mdot/"
     },
-    "MA": {
+    "Maryland": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.mdot.maryland.gov/"
     },
-    "MD": {
+    "Massachusetts": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.massdot.state.ma.us/"
     },
-    "ME": {
+    "Michigan": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.michigan.gov/mdot/"
     },
-    "MI": {
+    "Minnesota": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.state.mn.us/"
     },
-    "MN": {
+    "Mississippi": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://mdot.ms.gov/portal/home.aspx"
     },
-    "MO": {
+    "Missouri": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.modot.org/"
     },
-    "MS": {
+    "Montana": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.mdt.mt.gov/"
     },
-    "MT": {
+    "Nebraska": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://roads.nebraska.gov/"
     },
-    "NC": {
+    "Nevada": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.nevadadot.com/"
     },
-    "ND": {
+    "New Hampshire": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.nh.gov/dot/index.htm"
     },
-    "NE": {
+    "New Jersey": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.state.nj.us/transportation/"
     },
-    "NH": {
+    "New Mexico": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://dot.state.nm.us/"
     },
-    "NJ": {
+    "New York": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "https://www.dot.ny.gov/index"
     },
-    "NM": {
+    "North Carolina": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.ncdot.gov/"
     },
-    "NV": {
+    "North Dakota": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.nd.gov/"
     },
-    "NY": {
+    "Ohio": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.state.oh.us/"
     },
-    "OH": {
+    "Oklahoma": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://ok.gov/odot/"
     },
-    "OK": {
+    "Oregon": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.oregon.gov/ODOT/"
     },
-    "OR": {
+    "Pennsylvania": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.penndot.gov/"
     },
-    "PA": {
+    "Rhode Island": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.ri.gov/"
     },
-    "RI": {
+    "South Carolina": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.state.sc.us/"
     },
-    "SC": {
+    "South Dakota": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.sddot.com/"
     },
-    "SD": {
+    "Tennessee": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.tn.gov/tdot"
     },
-    "TN": {
+    "Texas": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.txdot.gov/"
     },
-    "TX": {
+    "Utah": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.udot.utah.gov/"
     },
-    "UT": {
+    "Vermont": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://vtrans.vermont.gov/"
     },
-    "VA": {
+    "Virginia": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://virginiadot.org/"
     },
-    "VT": {
+    "Washington": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.wsdot.wa.gov/"
     },
-    "WA": {
+    "Washington DC": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://ddot.dc.gov/"
     },
-    "WI": {
+    "West Virginia": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.transportation.wv.gov/Pages/default.aspx"
     },
-    "WV": {
+    "Wisconsin": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://wisconsindot.gov/"
     },
-    "WY": {
+    "Wyoming": {
         "rss": "",
         "twitter": "",
-        "website": ""
+        "website": "http://www.dot.state.wy.us/"
     }
 }
